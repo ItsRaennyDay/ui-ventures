@@ -1,0 +1,51 @@
+# 🎨 UI Libraries
+
+Complete UI frameworks and component libraries for building modern web applications. This collection includes everything from headless component systems to fully styled UI kits for React, Vue, Svelte, and other frontend frameworks.
+
+## What You'll Find
+
+- Complete UI frameworks
+- Component libraries
+- Headless UI solutions
+- Design systems
+- Enterprise UI kits
+- Open-source UI collections
+- Cross-framework libraries
+
+## Library Directory
+
+| Library | Framework | Type | Styling | License |
+|---------|-----------|------|---------|---------|
+| shadcn/ui | React | Components | Tailwind CSS | MIT |
+| Radix UI | React | Headless | Unstyled | MIT |
+| Mantine | React | UI Framework | CSS-in-JS | MIT |
+| Chakra UI | React | UI Framework | CSS-in-JS | MIT |
+| MUI | React | UI Framework | Emotion | MIT |
+| NextUI (HeroUI) | React | UI Framework | Tailwind | MIT |
+| Ant Design | React | Enterprise UI | CSS | MIT |
+| React Aria Components | React | Accessibility | Unstyled | Apache 2.0 |
+| Base UI | React | Headless | Unstyled | MIT |
+| DaisyUI | Any | Tailwind Components | Tailwind CSS | MIT |
+| Flowbite | React / HTML | Components | Tailwind CSS | MIT |
+| Preline UI | React / HTML | Components | Tailwind CSS | MIT |
+| Park UI | Multiple | Design System | Panda CSS | MIT |
+| Ark UI | Multiple | Headless | Unstyled | MIT |
+| Aceternity UI | React | Components | Tailwind CSS | MIT |
+| Magic UI | React | Components | Tailwind CSS | MIT |
+| Origin UI | React | Components | Tailwind CSS | MIT |
+| Tremor | React | Dashboard UI | Tailwind CSS | Apache 2.0 |
+
+## Contributing
+
+Know a great UI library that's missing? Open an issue or submit a pull request with:
+
+- Library name
+- Website
+- GitHub repository
+- Supported framework(s)
+- License
+- Short description
+
+---
+
+Return to the **[UI Ventures](../README.md)** homepage.
