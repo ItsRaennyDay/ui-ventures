@@ -1,6 +1,6 @@
 # UI Ventures
 
-Discover the best UI libraries, design systems, animation frameworks, component libraries, icon packs, CSS tools, and frontend resources—all in one place.
+Discover the best UI libraries, design systems, animation frameworks, component libraries, icon packs, CSS tools, and frontend resources, all in one place.
 
 ## Categories
 
